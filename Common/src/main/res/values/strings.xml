@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi App</string>
+    <string name="intro">introduction</string>
+    <string name="count_question">Question1</string>
+    <string name="purpose_question">Question2</string>
+    <string name="purpose_answer1">Answer1</string>
+    <string name="purpose_answer2">Answer2</string>
+    <string name="stats">status</string>
+
+
+</resources>

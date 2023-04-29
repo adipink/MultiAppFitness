@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Diet</string>
+    <string name="intro">Lets track your Diet</string>
+    <string name="count_question">How much vegetables you ate today?</string>
+    <string name="purpose_question">what is your goal?</string>
+    <string name="purpose_answer1">to lose weight</string>
+    <string name="purpose_answer2">healthy life style</string>
+    <string name="yes_button_value">Drank</string>
+</resources>

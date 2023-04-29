@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="intro">Lets track your Fitness</string>
+    <string name="count_question">How much you ran today?</string>
+    <string name="purpose_question">what is your goal?</string>
+    <string name="purpose_answer1">to lose weight</string>
+    <string name="purpose_answer2">to get in shape</string>
+    <string name="yes_button_value">Drank</string>
+</resources>
